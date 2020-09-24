@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 8,
+  "data": [
+    {
+      "id": 1,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    },
+    {
+      "id": 2,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    }
+  ,
+    {
+      "id": 3,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    },
+    {
+      "id": 4,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    },
+    {
+      "id": 5,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    },
+    {
+      "id": 6,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    },
+    {
+      "id": 7,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    },
+    {
+      "id": 8,
+      "marjor": "软件工程",
+      "classnum": "001",
+      "session": "2017",
+      "Admission time": "2017",
+      "number": "40",
+      "classteacher": "张三",
+      "Counselor": "李四"
+    }
+  ]
+}

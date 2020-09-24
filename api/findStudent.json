@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 8,
+  "data": [
+    {
+      "id": 1,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+    },
+    {
+      "id": 2,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+    }, {
+      "id": 3,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+
+    }, {
+      "id": 4,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+
+    }, {
+      "id": 5,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+
+    }, {
+      "id": 6,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+
+    }, {
+      "id": 7,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+
+    }, {
+      "id": 8,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "001",
+      "sno": "1001",
+      "sname": "小王",
+      "tel": "123456789",
+      "isGetJob": "是"
+    }
+  ]
+}
